@@ -1,4 +1,4 @@
-**To run the game run Game.py**
+**To play the game, run Game.py**
 
 Games Specs
 * For the game to start run Game.py
